@@ -1,0 +1,632 @@
+[
+  { 
+    "id":1,
+    "name": "New Nana",
+    "rooms": 2,
+    "type":"Mixed",
+    "structure_type":"Flat",
+    "rating":4.5,
+    "image_url": "lib/images/hostels/hostel1.jpeg",
+    "description":
+        "This hostel is the best hostel arround town. We have all kinds of accomondations, from single rooms to double rooms and self contained rooms with a study balcony, swimming pool ,wifi and dstv.We have on campus catering services to take care of your daily meals and also an on campus full equiped health facility. we got you all covered, we will be glad to have you as our next resident",
+    "amenities": [
+      {"id":1,"icon": "Icons.wifi", "name": "Wifi"},
+      {"id":2,"icon": "Icons.airport_Icons.shuttle", "name": "Campus shuttle"},
+      {"id":3,"icon": "Icons.pool", "name": "Swimming pool"},
+      {"id":4,"icon": "Icons.fitness_Icons.center", "name": "Gim"},
+      {"id":5,"icon": "Icons.live_tv", "name": "Dstv"},
+      {"id":6,"icon": "Icons.local_diIcons.ning", "name": "Restuarant"},
+      {"id":7,"icon": "Icons.hot_tub", "name": "Massage ploure"},
+      {"id":8,"icon": "Icons.sports_eIcons.sports", "name": "Online Gaming"}
+    ],
+    "images": [
+      {"id":1,"image_url": "lib/images/hostels/hostel1.jpeg"},
+      {"id":2,"image_url": "lib/images/hostels/hostel2.jpeg"},
+      {"id":3,"image_url": "lib/images/hostels/hostel3.jpeg"},
+      {"id":4,"image_url": "lib/images/hostels/hostel4.jpeg"},
+      {"id":5,"image_url": "lib/images/hostels/hostel5.jpeg"},
+      {"id":6,"image_url": "lib/images/hostels/hostel6.jpeg"},
+      {"id":7,"image_url": "lib/images/hostels/hostel7.jpeg"}
+    ]
+  },
+  {
+    "id":2,
+    "name": "Olympia",
+    "rooms": 2,
+    "type":"Mixed",
+    "structure_type":"Flat",
+    "rating":4.5,
+    "image_url": "lib/images/hostels/hostel2.jpeg",
+    "description":
+        "This hostel is the best hostel arround town.We have all kinds of accomondations, from single rooms to double rooms and self contained rooms with a study balcony, swimming pool ,wifi and dstv.We have on campus catering services to take care of your daily meals and also an on campus full equiped health facility. we got you all covered, we will be glad to have you as our next resident",
+    "amenities": [
+      { "id":1,"icon": "Icons.wifi", "name": "Wifi"},
+      { "id":2,"icon": "Icons.airport_shuttle", "name": "Campus shuttle"},
+      { "id":3,"icon": "Icons.pool", "name": "Swimming pool"},
+      { "id":4,"icon": "Icons.fitness_center", "name": "Gim"},
+      { "id":5,"icon": "Icons.live_tv", "name": "Dstv"},
+      { "id":6,"icon": "Icons.local_dining", "name": "Restuarant"},
+      { "id":7,"icon": "Icons.hot_tub", "name": "Massage ploure"},
+      { "id":8,"icon": "Icons.sports_esports", "name": "Online Gaming"}
+    ],
+    "images": [
+      {"id":1,"image_url": "lib/images/hostels/hostel1.jpeg"},
+      {"id":2,"image_url": "lib/images/hostels/hostel2.jpeg"},
+      {"id":3,"image_url": "lib/images/hostels/hostel3.jpeg"},
+      {"id":4,"image_url": "lib/images/hostels/hostel4.jpeg"},
+      {"id":5,"image_url": "lib/images/hostels/hostel5.jpeg"},
+      {"id":6,"image_url": "lib/images/hostels/hostel6.jpeg"},
+      {"id":7,"image_url": "lib/images/hostels/hostel7.jpeg"}
+    ]
+  },
+  {
+    "id":3,
+    "name": "Garden Courts",
+    "rooms": 2,
+    "type":"Mixed",
+    "structure_type":"Flat",
+    "rating":4.5,
+    "image_url": "lib/images/hostels/hostel3.jpeg",
+    "description":
+        "This hostel is the best hostel arround town.We have all kinds of accomondations, from single rooms to double rooms and self contained rooms with a study balcony, swimming pool ,wifi and dstv.We have on campus catering services to take care of your daily meals and also an on campus full equiped health facility. we got you all covered, we will be glad to have you as our next resident",
+    "amenities": [
+      { "id":1,"icon": "Icons.wifi", "name": "Wifi"},
+      { "id":2,"icon": "Icons.airport_shuttle", "name": "Campus shuttle"},
+      { "id":3,"icon": "Icons.pool", "name": "Swimming pool"},
+      { "id":4,"icon": "Icons.fitness_center", "name": "Gim"},
+      { "id":5,"icon": "Icons.live_tv", "name": "Dstv"},
+      { "id":6,"icon": "Icons.local_dining", "name": "Restuarant"},
+      { "id":7,"icon": "Icons.hot_tub", "name": "Massage ploure"},
+      { "id":8,"icon": "Icons.sports_esports", "name": "Online Gaming"}
+    ],
+    "images": [
+      {"id":1,"image_url": "lib/images/hostels/hostel1.jpeg"},
+      {"id":2,"image_url": "lib/images/hostels/hostel2.jpeg"},
+      {"id":3,"image_url": "lib/images/hostels/hostel3.jpeg"},
+      {"id":4,"image_url": "lib/images/hostels/hostel4.jpeg"},
+      {"id":5,"image_url": "lib/images/hostels/hostel5.jpeg"},
+      {"id":6,"image_url": "lib/images/hostels/hostel6.jpeg"},
+      {"id":7,"image_url": "lib/images/hostels/hostel7.jpeg"}
+    ]
+  },
+  {
+    "id":4,
+    "name": "Nalikka",
+    "rooms": 2,
+    "type":"Mixed",
+    "structure_type":"Flat",
+    "rating":4.5,
+    "image_url": "lib/images/hostels/hostel4.jpeg",
+    "description":
+        "This hostel is the best hostel arround town.We have all kinds of accomondations, from single rooms to double rooms and self contained rooms with a study balcony, swimming pool ,wifi and dstv.We have on campus catering services to take care of your daily meals and also an on campus full equiped health facility. we got you all covered, we will be glad to have you as our next resident",
+    "amenities": [
+      { "id":1,"icon": "Icons.wifi", "name": "Wifi"},
+      { "id":2,"icon": "Icons.airport_shuttle", "name": "Campus shuttle"},
+      { "id":3,"icon": "Icons.pool", "name": "Swimming pool"},
+      { "id":4,"icon": "Icons.fitness_center", "name": "Gim"},
+      { "id":5,"icon": "Icons.live_tv", "name": "Dstv"},
+      { "id":6,"icon": "Icons.local_dining", "name": "Restuarant"},
+      { "id":7,"icon": "Icons.hot_tub", "name": "Massage ploure"},
+      { "id":8,"icon": "Icons.sports_esports", "name": "Online Gaming"}
+    ],
+    "images": [
+      {"id":1,"image_url": "lib/images/hostels/hostel1.jpeg"},
+      {"id":2,"image_url": "lib/images/hostels/hostel2.jpeg"},
+      {"id":3,"image_url": "lib/images/hostels/hostel3.jpeg"},
+      {"id":4,"image_url": "lib/images/hostels/hostel4.jpeg"},
+      {"id":5,"image_url": "lib/images/hostels/hostel5.jpeg"},
+      {"id":6,"image_url": "lib/images/hostels/hostel6.jpeg"},
+      {"id":7,"image_url": "lib/images/hostels/hostel7.jpeg"}
+    ]
+  },
+  {
+    "id":5,
+    "name": "MISH",
+    "rooms": 2,
+    "type":"Mixed",
+    "structure_type":"Flat",
+    "rating":4.5,
+    "image_url": "lib/images/hostels/hostel5.jpeg",
+    "description":
+        "This hostel is the best hostel arround town.We have all kinds of accomondations, from single rooms to double rooms and self contained rooms with a study balcony, swimming pool ,wifi and dstv.We have on campus catering services to take care of your daily meals and also an on campus full equiped health facility. we got you all covered, we will be glad to have you as our next resident",
+    "amenities": [
+      { "id":1,"icon": "Icons.wifi", "name": "Wifi"},
+      { "id":2,"icon": "Icons.airport_shuttle", "name": "Campus shuttle"},
+      { "id":3,"icon": "Icons.pool", "name": "Swimming pool"},
+      { "id":4,"icon": "Icons.fitness_center", "name": "Gim"},
+      { "id":5,"icon": "Icons.live_tv", "name": "Dstv"},
+      { "id":6,"icon": "Icons.local_dining", "name": "Restuarant"},
+      { "id":7,"icon": "Icons.hot_tub", "name": "Massage ploure"},
+      { "id":8,"icon": "Icons.sports_esports", "name": "Online Gaming"}
+    ],
+    "images": [
+      {"id":1,"image_url": "lib/images/hostels/hostel1.jpeg"},
+      {"id":2,"image_url": "lib/images/hostels/hostel2.jpeg"},
+      {"id":3,"image_url": "lib/images/hostels/hostel3.jpeg"},
+      {"id":4,"image_url": "lib/images/hostels/hostel4.jpeg"},
+      {"id":5,"image_url": "lib/images/hostels/hostel5.jpeg"},
+      {"id":6,"image_url": "lib/images/hostels/hostel6.jpeg"},
+      {"id":7,"image_url": "lib/images/hostels/hostel7.jpeg"}
+    ]
+  },
+  {
+    "id":6,
+    "name": "JB Girls",
+    "rooms": 2,
+    "type":"Mixed",
+    "structure_type":"Flat",
+    "rating":4.5,
+    "image_url": "lib/images/hostels/hostel6.jpeg",
+    "description":
+        "This hostel is the best hostel arround town.We have all kinds of accomondations, from single rooms to double rooms and self contained rooms with a study balcony, swimming pool ,wifi and dstv.We have on campus catering services to take care of your daily meals and also an on campus full equiped health facility. we got you all covered, we will be glad to have you as our next resident",
+    "amenities": [
+      { "id":1,"icon": "Icons.wifi", "name": "Wifi"},
+      { "id":2,"icon": "Icons.airport_shuttle", "name": "Campus shuttle"},
+      { "id":3,"icon": "Icons.pool", "name": "Swimming pool"},
+      { "id":4,"icon": "Icons.fitness_center", "name": "Gim"},
+      { "id":5,"icon": "Icons.live_tv", "name": "Dstv"},
+      { "id":6,"icon": "Icons.local_dining", "name": "Restuarant"},
+      { "id":7,"icon": "Icons.hot_tub", "name": "Massage ploure"},
+      { "id":8,"icon": "Icons.sports_esports", "name": "Online Gaming"}
+    ],
+    "images": [
+      {"id":1,"image_url": "lib/images/hostels/hostel1.jpeg"},
+      {"id":2,"image_url": "lib/images/hostels/hostel2.jpeg"},
+      {"id":3,"image_url": "lib/images/hostels/hostel3.jpeg"},
+      {"id":4,"image_url": "lib/images/hostels/hostel4.jpeg"},
+      {"id":5,"image_url": "lib/images/hostels/hostel5.jpeg"},
+      {"id":6,"image_url": "lib/images/hostels/hostel6.jpeg"},
+      {"id":7,"image_url": "lib/images/hostels/hostel7.jpeg"}
+    ]
+  },
+  {
+    "id":7,
+    "name": "JB Boys",
+    "rooms": 2,
+    "type":"Mixed",
+    "structure_type":"Flat",
+    "rating":4.5,
+    "image_url": "lib/images/hostels/hostel7.jpeg",
+    "description":
+        "This hostel is the best hostel arround town.We have all kinds of accomondations, from single rooms to double rooms and self contained rooms with a study balcony, swimming pool ,wifi and dstv.We have on campus catering services to take care of your daily meals and also an on campus full equiped health facility. we got you all covered, we will be glad to have you as our next resident",
+    "amenities": [
+      { "id":1,"icon": "Icons.wifi", "name": "Wifi"},
+      { "id":2,"icon": "Icons.airport_shuttle", "name": "Campus shuttle"},
+      { "id":3,"icon": "Icons.pool", "name": "Swimming pool"},
+      { "id":4,"icon": "Icons.fitness_center", "name": "Gim"},
+      { "id":5,"icon": "Icons.live_tv", "name": "Dstv"},
+      { "id":6,"icon": "Icons.local_dining", "name": "Restuarant"},
+      { "id":7,"icon": "Icons.hot_tub", "name": "Massage ploure"},
+      { "id":8,"icon": "Icons.sports_esports", "name": "Online Gaming"}
+    ],
+    "images": [
+      {"id":1,"image_url": "lib/images/hostels/hostel1.jpeg"},
+      {"id":2,"image_url": "lib/images/hostels/hostel2.jpeg"},
+      {"id":3,"image_url": "lib/images/hostels/hostel3.jpeg"},
+      {"id":4,"image_url": "lib/images/hostels/hostel4.jpeg"},
+      {"id":5,"image_url": "lib/images/hostels/hostel5.jpeg"},
+      {"id":6,"image_url": "lib/images/hostels/hostel6.jpeg"},
+      {"id":7,"image_url": "lib/images/hostels/hostel7.jpeg"}
+    ]
+  },
+  {
+    "id":8,
+    "name": "Miriam",
+    "rooms": 2,
+    "type":"Mixed",
+    "structure_type":"Flat",
+    "rating":4.5,
+    "image_url": "lib/images/hostels/hostel8.jpeg",
+    "description":
+        "This hostel is the best hostel arround town.We have all kinds of accomondations, from single rooms to double rooms and self contained rooms with a study balcony, swimming pool ,wifi and dstv.We have on campus catering services to take care of your daily meals and also an on campus full equiped health facility. we got you all covered, we will be glad to have you as our next resident",
+    "amenities": [
+      { "id":1,"icon": "Icons.wifi", "name": "Wifi"},
+      { "id":2,"icon": "Icons.airport_shuttle", "name": "Campus shuttle"},
+      { "id":3,"icon": "Icons.pool", "name": "Swimming pool"},
+      { "id":4,"icon": "Icons.fitness_center", "name": "Gim"},
+      { "id":5,"icon": "Icons.live_tv", "name": "Dstv"},
+      { "id":6,"icon": "Icons.local_dining", "name": "Restuarant"},
+      { "id":7,"icon": "Icons.hot_tub", "name": "Massage ploure"},
+      { "id":8,"icon": "Icons.sports_esports", "name": "Online Gaming"}
+    ],
+    "images": [
+      {"id":1,"image_url": "lib/images/hostels/hostel1.jpeg"},
+      {"id":2,"image_url": "lib/images/hostels/hostel2.jpeg"},
+      {"id":3,"image_url": "lib/images/hostels/hostel3.jpeg"},
+      {"id":4,"image_url": "lib/images/hostels/hostel4.jpeg"},
+      {"id":5,"image_url": "lib/images/hostels/hostel5.jpeg"},
+      {"id":6,"image_url": "lib/images/hostels/hostel6.jpeg"},
+      {"id":7,"image_url": "lib/images/hostels/hostel7.jpeg"}
+    ]
+  },
+  {
+    "id":9,
+    "name": "Hilican",
+    "rooms": 2,
+    "type":"Mixed",
+    "structure_type":"Flat",
+    "rating":4.5,
+    "image_url": "lib/images/hostels/hostel9.jpeg",
+    "description":
+        "This hostel is the best hostel arround town.We have all kinds of accomondations, from single rooms to double rooms and self contained rooms with a study balcony, swimming pool ,wifi and dstv.We have on campus catering services to take care of your daily meals and also an on campus full equiped health facility. we got you all covered, we will be glad to have you as our next resident",
+    "amenities": [
+      { "id":1,"icon": "Icons.wifi", "name": "Wifi"},
+      { "id":2,"icon": "Icons.airport_shuttle", "name": "Campus shuttle"},
+      { "id":3,"icon": "Icons.pool", "name": "Swimming pool"},
+      { "id":4,"icon": "Icons.fitness_center", "name": "Gim"},
+      { "id":5,"icon": "Icons.live_tv", "name": "Dstv"},
+      { "id":6,"icon": "Icons.local_dining", "name": "Restuarant"},
+      { "id":7,"icon": "Icons.hot_tub", "name": "Massage ploure"},
+      { "id":8,"icon": "Icons.sports_esports", "name": "Online Gaming"}
+    ],
+    "images": [
+      {"id":1,"image_url": "lib/images/hostels/hostel1.jpeg"},
+      {"id":2,"image_url": "lib/images/hostels/hostel2.jpeg"},
+      {"id":3,"image_url": "lib/images/hostels/hostel3.jpeg"},
+      {"id":4,"image_url": "lib/images/hostels/hostel4.jpeg"},
+      {"id":5,"image_url": "lib/images/hostels/hostel5.jpeg"},
+      {"id":6,"image_url": "lib/images/hostels/hostel6.jpeg"},
+      {"id":7,"image_url": "lib/images/hostels/hostel7.jpeg"}
+    ]
+  },
+  {
+    "id":10,
+    "name": "Maimood",
+    "rooms": 2,
+    "type":"Mixed",
+    "structure_type":"Flat",
+    "rating":4.5,
+    "image_url": "lib/images/hostels/hostel10.jpeg",
+    "description":
+        "This hostel is the best hostel arround town.We have all kinds of accomondations, from single rooms to double rooms and self contained rooms with a study balcony, swimming pool ,wifi and dstv.We have on campus catering services to take care of your daily meals and also an on campus full equiped health facility. we got you all covered, we will be glad to have you as our next resident",
+    "amenities": [
+      { "id":1,"icon": "Icons.wifi", "name": "Wifi"},
+      { "id":2,"icon": "Icons.airport_shuttle", "name": "Campus shuttle"},
+      { "id":3,"icon": "Icons.pool", "name": "Swimming pool"},
+      { "id":4,"icon": "Icons.fitness_center", "name": "Gim"},
+      { "id":5,"icon": "Icons.live_tv", "name": "Dstv"},
+      { "id":6,"icon": "Icons.local_dining", "name": "Restuarant"},
+      { "id":7,"icon": "Icons.hot_tub", "name": "Massage ploure"},
+      { "id":8,"icon": "Icons.sports_esports", "name": "Online Gaming"}
+    ],
+    "images": [
+      {"id":1,"image_url": "lib/images/hostels/hostel1.jpeg"},
+      {"id":2,"image_url": "lib/images/hostels/hostel2.jpeg"},
+      {"id":3,"image_url": "lib/images/hostels/hostel3.jpeg"},
+      {"id":4,"image_url": "lib/images/hostels/hostel4.jpeg"},
+      {"id":5,"image_url": "lib/images/hostels/hostel5.jpeg"},
+      {"id":6,"image_url": "lib/images/hostels/hostel6.jpeg"},
+      {"id":7,"image_url": "lib/images/hostels/hostel7.jpeg"}
+    ]
+  },
+  {
+    "id":11,
+    "name": "Aryan/Akamwesi",
+    "rooms": 2,
+    "type":"Mixed",
+    "structure_type":"Flat",
+    "rating":4.5,
+    "image_url": "lib/images/hostels/hostel11.jpeg",
+    "description":
+        "This hostel is the best hostel arround town.We have all kinds of accomondations, from single rooms to double rooms and self contained rooms with a study balcony, swimming pool ,wifi and dstv.We have on campus catering services to take care of your daily meals and also an on campus full equiped health facility. we got you all covered, we will be glad to have you as our next resident",
+    "amenities": [
+      { "id":1,"icon": "Icons.wifi", "name": "Wifi"},
+      { "id":2,"icon": "Icons.airport_shuttle", "name": "Campus shuttle"},
+      { "id":3,"icon": "Icons.pool", "name": "Swimming pool"},
+      { "id":4,"icon": "Icons.fitness_center", "name": "Gim"},
+      { "id":5,"icon": "Icons.live_tv", "name": "Dstv"},
+      { "id":6,"icon": "Icons.local_dining", "name": "Restuarant"},
+      { "id":7,"icon": "Icons.hot_tub", "name": "Massage ploure"},
+      { "id":8,"icon": "Icons.sports_esports", "name": "Online Gaming"}
+    ],
+    "images": [
+      {"id":1,"image_url": "lib/images/hostels/hostel1.jpeg"},
+      {"id":2,"image_url": "lib/images/hostels/hostel2.jpeg"},
+      {"id":3,"image_url": "lib/images/hostels/hostel3.jpeg"},
+      {"id":4,"image_url": "lib/images/hostels/hostel4.jpeg"},
+      {"id":5,"image_url": "lib/images/hostels/hostel5.jpeg"},
+      {"id":6,"image_url": "lib/images/hostels/hostel6.jpeg"},
+      {"id":7,"image_url": "lib/images/hostels/hostel7.jpeg"}
+    ]
+  },
+  {
+    "id":12,
+    "name": "Muhika",
+    "rooms": 2,
+    "type":"Mixed",
+    "structure_type":"Flat",
+    "rating":4.5,
+    "image_url": "lib/images/hostels/hostel12.jpeg",
+    "description":
+        "This hostel is the best hostel arround town.We have all kinds of accomondations, from single rooms to double rooms and self contained rooms with a study balcony, swimming pool ,wifi and dstv.We have on campus catering services to take care of your daily meals and also an on campus full equiped health facility. we got you all covered, we will be glad to have you as our next resident",
+    "amenities": [
+      { "id":1,"icon": "Icons.wifi", "name": "Wifi"},
+      { "id":2,"icon": "Icons.airport_shuttle", "name": "Campus shuttle"},
+      { "id":3,"icon": "Icons.pool", "name": "Swimming pool"},
+      { "id":4,"icon": "Icons.fitness_center", "name": "Gim"},
+      { "id":5,"icon": "Icons.live_tv", "name": "Dstv"},
+      { "id":6,"icon": "Icons.local_dining", "name": "Restuarant"},
+      { "id":7,"icon": "Icons.hot_tub", "name": "Massage ploure"},
+      { "id":8,"icon": "Icons.sports_esports", "name": "Online Gaming"}
+    ],
+    "images": [
+      {"id":1,"image_url": "lib/images/hostels/hostel1.jpeg"},
+      {"id":2,"image_url": "lib/images/hostels/hostel2.jpeg"},
+      {"id":3,"image_url": "lib/images/hostels/hostel3.jpeg"},
+      {"id":4,"image_url": "lib/images/hostels/hostel4.jpeg"},
+      {"id":5,"image_url": "lib/images/hostels/hostel5.jpeg"},
+      {"id":6,"image_url": "lib/images/hostels/hostel6.jpeg"},
+      {"id":7,"image_url": "lib/images/hostels/hostel7.jpeg"}
+    ]
+  },
+  {
+    "id":13,
+    "name": "Pinto's Girls",
+    "rooms": 2,
+    "type":"Mixed",
+    "structure_type":"Flat",
+    "rating":4.5,
+    "image_url": "lib/images/hostels/hostel13.jpeg",
+    "description":
+        "This hostel is the best hostel arround town.We have all kinds of accomondations, from single rooms to double rooms and self contained rooms with a study balcony, swimming pool ,wifi and dstv.We have on campus catering services to take care of your daily meals and also an on campus full equiped health facility. we got you all covered, we will be glad to have you as our next resident",
+    "amenities": [
+      { "id":1,"icon": "Icons.wifi", "name": "Wifi"},
+      { "id":2,"icon": "Icons.airport_shuttle", "name": "Campus shuttle"},
+      { "id":3,"icon": "Icons.pool", "name": "Swimming pool"},
+      { "id":4,"icon": "Icons.fitness_center", "name": "Gim"},
+      { "id":5,"icon": "Icons.live_tv", "name": "Dstv"},
+      { "id":6,"icon": "Icons.local_dining", "name": "Restuarant"},
+      { "id":7,"icon": "Icons.hot_tub", "name": "Massage ploure"},
+      { "id":8,"icon": "Icons.sports_esports", "name": "Online Gaming"}
+    ],
+    "images": [
+      {"id":1,"image_url": "lib/images/hostels/hostel1.jpeg"},
+      {"id":2,"image_url": "lib/images/hostels/hostel2.jpeg"},
+      {"id":3,"image_url": "lib/images/hostels/hostel3.jpeg"},
+      {"id":4,"image_url": "lib/images/hostels/hostel4.jpeg"},
+      {"id":5,"image_url": "lib/images/hostels/hostel5.jpeg"},
+      {"id":6,"image_url": "lib/images/hostels/hostel6.jpeg"},
+      {"id":7,"image_url": "lib/images/hostels/hostel7.jpeg"}
+    ]
+  },
+  {
+    "id":14,
+    "name": "Akwata Empola",
+    "rooms": 2,
+    "type":"Mixed",
+    "structure_type":"Flat",
+    "rating":4.5,
+    "image_url": "lib/images/hostels/hostel14.jpeg",
+    "description":
+        "This hostel is the best hostel arround town.We have all kinds of accomondations, from single rooms to double rooms and self contained rooms with a study balcony, swimming pool ,wifi and dstv.We have on campus catering services to take care of your daily meals and also an on campus full equiped health facility. we got you all covered, we will be glad to have you as our next resident",
+    "amenities": [
+      { "id":1,"icon": "Icons.wifi", "name": "Wifi"},
+      { "id":2,"icon": "Icons.airport_shuttle", "name": "Campus shuttle"},
+      { "id":3,"icon": "Icons.pool", "name": "Swimming pool"},
+      { "id":4,"icon": "Icons.fitness_center", "name": "Gim"},
+      { "id":5,"icon": "Icons.live_tv", "name": "Dstv"},
+      { "id":6,"icon": "Icons.local_dining", "name": "Restuarant"},
+      { "id":7,"icon": "Icons.hot_tub", "name": "Massage ploure"},
+      { "id":8,"icon": "Icons.sports_esports", "name": "Online Gaming"}
+    ],
+    "images": [
+      {"id":1,"image_url": "lib/images/hostels/hostel1.jpeg"},
+      {"id":2,"image_url": "lib/images/hostels/hostel2.jpeg"},
+      {"id":3,"image_url": "lib/images/hostels/hostel3.jpeg"},
+      {"id":4,"image_url": "lib/images/hostels/hostel4.jpeg"},
+      {"id":5,"image_url": "lib/images/hostels/hostel5.jpeg"},
+      {"id":6,"image_url": "lib/images/hostels/hostel6.jpeg"},
+      {"id":7,"image_url": "lib/images/hostels/hostel7.jpeg"}
+    ]
+  },
+  {
+    "id":15,
+    "name": "Dream World",
+    "rooms": 2,
+    "type":"Mixed",
+    "structure_type":"Flat",
+    "rating":4.5,
+    "image_url": "lib/images/hostels/hostel15.jpeg",
+    "description":
+        "This hostel is the best hostel arround town.We have all kinds of accomondations, from single rooms to double rooms and self contained rooms with a study balcony, swimming pool ,wifi and dstv.We have on campus catering services to take care of your daily meals and also an on campus full equiped health facility. we got you all covered, we will be glad to have you as our next resident",
+    "amenities": [
+      { "id":1,"icon": "Icons.wifi", "name": "Wifi"},
+      { "id":2,"icon": "Icons.airport_shuttle", "name": "Campus shuttle"},
+      { "id":3,"icon": "Icons.pool", "name": "Swimming pool"},
+      { "id":4,"icon": "Icons.fitness_center", "name": "Gim"},
+      { "id":5,"icon": "Icons.live_tv", "name": "Dstv"},
+      { "id":6,"icon": "Icons.local_dining", "name": "Restuarant"},
+      { "id":7,"icon": "Icons.hot_tub", "name": "Massage ploure"},
+      { "id":8,"icon": "Icons.sports_esports", "name": "Online Gaming"}
+    ],
+    "images": [
+      {"id":1,"image_url": "lib/images/hostels/hostel1.jpeg"},
+      {"id":2,"image_url": "lib/images/hostels/hostel2.jpeg"},
+      {"id":3,"image_url": "lib/images/hostels/hostel3.jpeg"},
+      {"id":4,"image_url": "lib/images/hostels/hostel4.jpeg"},
+      {"id":5,"image_url": "lib/images/hostels/hostel5.jpeg"},
+      {"id":6,"image_url": "lib/images/hostels/hostel6.jpeg"},
+      {"id":7,"image_url": "lib/images/hostels/hostel7.jpeg"}
+    ]
+  },
+  {
+    "id":16,
+    "name": "Waveney Court",
+    "rooms": 2,
+    "type":"Mixed",
+    "structure_type":"Flat",
+    "rating":4.5,
+    "image_url": "lib/images/hostels/hostel16.jpeg",
+    "description":
+        "This hostel is the best hostel arround town.We have all kinds of accomondations, from single rooms to double rooms and self contained rooms with a study balcony, swimming pool ,wifi and dstv.We have on campus catering services to take care of your daily meals and also an on campus full equiped health facility. we got you all covered, we will be glad to have you as our next resident",
+    "amenities": [
+      { "id":1,"icon": "Icons.wifi", "name": "Wifi"},
+      { "id":2,"icon": "Icons.airport_shuttle", "name": "Campus shuttle"},
+      { "id":3,"icon": "Icons.pool", "name": "Swimming pool"},
+      { "id":4,"icon": "Icons.fitness_center", "name": "Gim"},
+      { "id":5,"icon": "Icons.live_tv", "name": "Dstv"},
+      { "id":6,"icon": "Icons.local_dining", "name": "Restuarant"},
+      { "id":7,"icon": "Icons.hot_tub", "name": "Massage ploure"},
+      { "id":8,"icon": "Icons.sports_esports", "name": "Online Gaming"}
+    ],
+    "images": [
+      {"id":1,"image_url": "lib/images/hostels/hostel1.jpeg"},
+      {"id":2,"image_url": "lib/images/hostels/hostel2.jpeg"},
+      {"id":3,"image_url": "lib/images/hostels/hostel3.jpeg"},
+      {"id":4,"image_url": "lib/images/hostels/hostel4.jpeg"},
+      {"id":5,"image_url": "lib/images/hostels/hostel5.jpeg"},
+      {"id":6,"image_url": "lib/images/hostels/hostel6.jpeg"},
+      {"id":7,"image_url": "lib/images/hostels/hostel7.jpeg"}
+    ]
+  },
+  {
+    "id":17,
+    "name": "Douglas Villa",
+    "rooms": 2,
+    "type":"Mixed",
+    "structure_type":"Flat",
+    "rating":4.5,
+    "image_url": "lib/images/hostels/hostel17.jpeg",
+    "description":
+        "This hostel is the best hostel arround town.We have all kinds of accomondations, from single rooms to double rooms and self contained rooms with a study balcony, swimming pool ,wifi and dstv.We have on campus catering services to take care of your daily meals and also an on campus full equiped health facility. we got you all covered, we will be glad to have you as our next resident",
+    "amenities": [
+      { "id":1,"icon": "Icons.wifi", "name": "Wifi"},
+      { "id":2,"icon": "Icons.airport_shuttle", "name": "Campus shuttle"},
+      { "id":3,"icon": "Icons.pool", "name": "Swimming pool"},
+      { "id":4,"icon": "Icons.fitness_center", "name": "Gim"},
+      { "id":5,"icon": "Icons.live_tv", "name": "Dstv"},
+      { "id":6,"icon": "Icons.local_dining", "name": "Restuarant"},
+      { "id":7,"icon": "Icons.hot_tub", "name": "Massage ploure"},
+      { "id":8,"icon": "Icons.sports_esports", "name": "Online Gaming"}
+    ],
+    "images": [
+      {"id":1,"image_url": "lib/images/hostels/hostel1.jpeg"},
+      {"id":2,"image_url": "lib/images/hostels/hostel2.jpeg"},
+      {"id":3,"image_url": "lib/images/hostels/hostel3.jpeg"},
+      {"id":4,"image_url": "lib/images/hostels/hostel4.jpeg"},
+      {"id":5,"image_url": "lib/images/hostels/hostel5.jpeg"},
+      {"id":6,"image_url": "lib/images/hostels/hostel6.jpeg"},
+      {"id":7,"image_url": "lib/images/hostels/hostel7.jpeg"}
+    ]
+  },
+  {
+    "id":18,
+    "name": "Nakiyingi",
+    "rooms": 2,
+    "type":"Mixed",
+    "structure_type":"Flat",
+    "rating":4.5,
+    "image_url": "lib/images/hostels/hostel18.jpeg",
+    "description":
+        "This hostel is the best hostel arround town.We have all kinds of accomondations, from single rooms to double rooms and self contained rooms with a study balcony, swimming pool ,wifi and dstv.We have on campus catering services to take care of your daily meals and also an on campus full equiped health facility. we got you all covered, we will be glad to have you as our next resident",
+    "amenities": [
+      { "id":1,"icon": "Icons.wifi", "name": "Wifi"},
+      { "id":2,"icon": "Icons.airport_shuttle", "name": "Campus shuttle"},
+      { "id":3,"icon": "Icons.pool", "name": "Swimming pool"},
+      { "id":4,"icon": "Icons.fitness_center", "name": "Gim"},
+      { "id":5,"icon": "Icons.live_tv", "name": "Dstv"},
+      { "id":6,"icon": "Icons.local_dining", "name": "Restuarant"},
+      { "id":7,"icon": "Icons.hot_tub", "name": "Massage ploure"},
+      { "id":8,"icon": "Icons.sports_esports", "name": "Online Gaming"}
+    ],
+    "images": [
+      {"id":1,"image_url": "lib/images/hostels/hostel1.jpeg"},
+      {"id":2,"image_url": "lib/images/hostels/hostel2.jpeg"},
+      {"id":3,"image_url": "lib/images/hostels/hostel3.jpeg"},
+      {"id":4,"image_url": "lib/images/hostels/hostel4.jpeg"},
+      {"id":5,"image_url": "lib/images/hostels/hostel5.jpeg"},
+      {"id":6,"image_url": "lib/images/hostels/hostel6.jpeg"},
+      {"id":7,"image_url": "lib/images/hostels/hostel7.jpeg"}
+    ]
+  },
+  {
+    "id":19,
+    "name": "Off Shore",
+    "rooms": 2,
+    "type":"Mixed",
+    "structure_type":"Flat",
+    "rating":4.5,
+    "image_url": "lib/images/hostels/hostel19.jpeg",
+    "description":
+        "This hostel is the best hostel arround town.We have all kinds of accomondations, from single rooms to double rooms and self contained rooms with a study balcony, swimming pool ,wifi and dstv.We have on campus catering services to take care of your daily meals and also an on campus full equiped health facility. we got you all covered, we will be glad to have you as our next resident",
+    "amenities": [
+      { "id":1,"icon": "Icons.wifi", "name": "Wifi"},
+      { "id":2,"icon": "Icons.airport_shuttle", "name": "Campus shuttle"},
+      { "id":3,"icon": "Icons.pool", "name": "Swimming pool"},
+      { "id":4,"icon": "Icons.fitness_center", "name": "Gim"},
+      { "id":5,"icon": "Icons.live_tv", "name": "Dstv"},
+      { "id":6,"icon": "Icons.local_dining", "name": "Restuarant"},
+      { "id":7,"icon": "Icons.hot_tub", "name": "Massage ploure"},
+      { "id":8,"icon": "Icons.sports_esports", "name": "Online Gaming"}
+    ],
+    "images": [
+      {"id":1,"image_url": "lib/images/hostels/hostel1.jpeg"},
+      {"id":2,"image_url": "lib/images/hostels/hostel2.jpeg"},
+      {"id":3,"image_url": "lib/images/hostels/hostel3.jpeg"},
+      {"id":4,"image_url": "lib/images/hostels/hostel4.jpeg"},
+      {"id":5,"image_url": "lib/images/hostels/hostel5.jpeg"},
+      {"id":6,"image_url": "lib/images/hostels/hostel6.jpeg"},
+      {"id":7,"image_url": "lib/images/hostels/hostel7.jpeg"}
+    ]
+  },
+  {
+    "id":20,
+    "name": "Panicol",
+    "rooms": 2,
+    "type":"Mixed",
+    "structure_type":"Flat",
+    "rating":4.5,
+    "image_url": "lib/images/hostels/hostel20.jpeg",
+    "description":
+        "This hostel is the best hostel arround town.We have all kinds of accomondations, from single rooms to double rooms and self contained rooms with a study balcony, swimming pool ,wifi and dstv.We have on campus catering services to take care of your daily meals and also an on campus full equiped health facility. we got you all covered, we will be glad to have you as our next resident",
+    "amenities": [
+      { "id":1,"icon": "Icons.wifi", "name": "Wifi"},
+      { "id":2,"icon": "Icons.airport_shuttle", "name": "Campus shuttle"},
+      { "id":3,"icon": "Icons.pool", "name": "Swimming pool"},
+      { "id":4,"icon": "Icons.fitness_center", "name": "Gim"},
+      { "id":5,"icon": "Icons.live_tv", "name": "Dstv"},
+      { "id":6,"icon": "Icons.local_dining", "name": "Restuarant"},
+      { "id":7,"icon": "Icons.hot_tub", "name": "Massage ploure"},
+      { "id":8,"icon": "Icons.sports_esports", "name": "Online Gaming"}
+    ],
+    "images": [
+      {"id":1,"image_url": "lib/images/hostels/hostel1.jpeg"},
+      {"id":2,"image_url": "lib/images/hostels/hostel2.jpeg"},
+      {"id":3,"image_url": "lib/images/hostels/hostel3.jpeg"},
+      {"id":4,"image_url": "lib/images/hostels/hostel4.jpeg"},
+      {"id":5,"image_url": "lib/images/hostels/hostel5.jpeg"},
+      {"id":6,"image_url": "lib/images/hostels/hostel6.jpeg"},
+      {"id":7,"image_url": "lib/images/hostels/hostel7.jpeg"}
+    ]
+  },
+  {
+    "id":21,
+    "name": "Lady Julian",
+    "rooms": 2,
+    "type":"Mixed",
+    "structure_type":"Flat",
+    "rating":4.5,
+    "image_url": "lib/images/hostels/hostel21.jpeg",
+    "description":
+        "This hostel is the best hostel arround town.We have all kinds of accomondations, from single rooms to double rooms and self contained rooms with a study balcony, swimming pool ,wifi and dstv.We have on campus catering services to take care of your daily meals and also an on campus full equiped health facility. we got you all covered, we will be glad to have you as our next resident",
+    "amenities": [
+      { "id":1,"icon": "Icons.wifi", "name": "Wifi"},
+      { "id":2,"icon": "Icons.airport_shuttle", "name": "Campus shuttle"},
+      { "id":3,"icon": "Icons.pool", "name": "Swimming pool"},
+      { "id":4,"icon": "Icons.fitness_center", "name": "Gim"},
+      { "id":5,"icon": "Icons.live_tv", "name": "Dstv"},
+      { "id":6,"icon": "Icons.local_dining", "name": "Restuarant"},
+      { "id":7,"icon": "Icons.hot_tub", "name": "Massage ploure"},
+      { "id":8,"icon": "Icons.sports_esports", "name": "Online Gaming"}
+    ],
+    "images": [
+      {"id":1,"image_url": "lib/images/hostels/hostel1.jpeg"},
+      {"id":2,"image_url": "lib/images/hostels/hostel2.jpeg"},
+      {"id":3,"image_url": "lib/images/hostels/hostel3.jpeg"},
+      {"id":4,"image_url": "lib/images/hostels/hostel4.jpeg"},
+      {"id":5,"image_url": "lib/images/hostels/hostel5.jpeg"},
+      {"id":6,"image_url": "lib/images/hostels/hostel6.jpeg"},
+      {"id":7,"image_url": "lib/images/hostels/hostel7.jpeg"}
+    ]
+  }
+]
